@@ -1,0 +1,5 @@
+.DS_Store
+forIgnore/
+package.json
+index.js
+
